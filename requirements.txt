@@ -1,0 +1,4 @@
+nltk==3.8.1
+gensim==4.3.1
+requests==2.30.0
+beautifulsoup4==4.12.2
